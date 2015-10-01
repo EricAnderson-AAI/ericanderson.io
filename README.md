@@ -1,5 +1,5 @@
-# EvLSnoopY
+# My Blog
 
-[EvLSnoopY](http://evlsnoopy.com) is a journal of my software development interests.
+[http://ericanderson.io](http://ericanderson.io) is a journal of my software development interests.
 
-This repository hosts the articles for EvLSnoopY.com
+This repository hosts the articles for ericanderson.io
